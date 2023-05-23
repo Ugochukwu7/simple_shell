@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+/**
+* Main - Entry point
+*
+* Description: this program prints the message "BETTY"
+*
+* Return: 0 (success)
+*/
+
+int main(void)
+{
+printf("BETTY\n");
+return 0 (success);
+}
